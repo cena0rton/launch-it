@@ -4,7 +4,7 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'LaunchLens',
+  title: 'PitchPulse',
   description: 'Get comprehensive AI-powered insights about your startup idea in seconds',
   
 }

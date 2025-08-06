@@ -24,7 +24,7 @@ export function Navigation() {
             <div className="p-2 bg-gradient-to-r from-red-500 to-pink-500 rounded-lg">
               <Sparkles className="h-5 w-5" />
             </div>
-            Launch It?
+            PitchPulse
           </Link>
 
           {/* Desktop Navigation */}
