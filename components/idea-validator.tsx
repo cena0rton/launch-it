@@ -79,7 +79,7 @@ export function IdeaValidator() {
                 <p className="text-green-400 font-medium mb-1">Claude AI Active</p>
                 <p className="text-green-500 text-sm">
                   Powered by Anthropic's Claude 3.5 Sonnet - the most advanced AI for startup analysis. Get
-                  professional-grade insights from an AI trained on thousands of successful startups.This is a demo version of the app and uses basic API key.It is not a production ready app.So sometimes it may not work as expected.
+                  professional-grade insights from an AI trained on thousands of successful startups.<span className="text-red-500 text-sm">This is a demo version of the app and uses basic API key.It is not a production ready app.So sometimes it may not work as expected.</span>
                 </p>
               </div>
             </div>
