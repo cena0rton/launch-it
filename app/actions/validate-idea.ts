@@ -262,7 +262,7 @@ Keep each point concise but informative (1-2 sentences max). Base analysis on re
     console.error("Claude AI failed, using enhanced demo mode:", error)
 
     // Fall back to enhanced demo mode if API fails
-    await new Promise((resolve) => setTimeout(resolve, 2500))
+    await new Promise((resolve) => setTimeout(resolve, 20000))
     return generateMockValidation(idea)
   }
 }
